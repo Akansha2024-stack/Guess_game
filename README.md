@@ -3,23 +3,23 @@ A fun and interactive number guessing game built using HTML, CSS, and JavaScript
 # About the Project
 This is a simple web-based number guessing game where the player tries to guess a randomly generated number. After each guess, the system gives a hint whether the guess is too low or too high. The game ends when the player guesses the correct number or runs out of attempts.
 # Features
-Random number generation
-Hint system (Too high / Too low)
-Limited attempts
-Responsive UI
-Easy to play
+* Random number generation
+* Hint system (Too high / Too low)
+* Limited attempts
+* Responsive UI
+* Easy to play
 # How to Play
-Click to start the game.
-Enter your guess in the input field.
-The system will tell you if your guess is too high, too low, or correct.
-You have a limited number of attempts — try to guess before they run out!
+* Click to start the game.
+* Enter your guess in the input field.
+* The system will tell you if your guess is too high, too low, or correct.
+* You have a limited number of attempts — try to guess before they run out!
 # Tech Stack
-HTML – Structure
-CSS – Styling
-JavaScript – Game Logic
+* HTML – Structure
+* CSS – Styling
+* JavaScript – Game Logic
 # How to Run
-Download or clone the repository.
-Open the index.html file in your browser.
-Start playing!
+* Download or clone the repository.
+* Open the index.html file in your browser.
+* Start playing!
 
 
